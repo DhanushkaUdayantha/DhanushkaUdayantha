@@ -15,11 +15,6 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DilmiRathnayake&layout=compact&theme=rose_pine" height="180"/>
 </p>
 
-# 💕 Streak Stats 
-![](https://github-readme-stats.vercel.app/api?username=DilmiRathnayake&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DilmiRathnayake&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DilmiRathnayake&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🌷 Profile Summary  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilmiRathnayake&theme=rose_pine"/>
