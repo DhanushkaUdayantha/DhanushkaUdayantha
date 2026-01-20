@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhanushka Udayanetha</h1>
+<h1 align="center">Hi 👋, I'm Dhanushka Udayantha</h1>
 
 - 🌱 I’m currently learning MERN Stack 
 
